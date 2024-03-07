@@ -1,0 +1,6 @@
+How to install python developer package?
+Important pythonic concepts/ questions that a intermediate python developer should know/ answer?
+How to install python developer package on Windows?
+driver.find_elements_by_id(&#39;fakebox-input&#39;).send_keys(&#39;site:linkedin.com/in/ AND &quot;python developer&quot; AND &quot;London&quot;&#39;) showing attribute error
+Guidance for C++ / Python developer to understand the web dev world
+twitter python developer codes
